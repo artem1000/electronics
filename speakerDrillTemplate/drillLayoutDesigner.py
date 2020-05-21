@@ -4,7 +4,7 @@ import math
 # Design something looking like radiation sign
 
 def main():
- d = 25
+ d = 27
  n = [8, 9, 15, 24, 30] # skip first one
  r = 5 # radius
 
